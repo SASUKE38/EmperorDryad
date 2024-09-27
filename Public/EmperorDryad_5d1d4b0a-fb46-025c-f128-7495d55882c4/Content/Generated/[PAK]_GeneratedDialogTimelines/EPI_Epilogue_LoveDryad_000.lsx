@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="TimelineBank">
+		<node id="TimelineBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BodyPartMocap" type="int32" value="3" />
+					<attribute id="DialogResourceId" type="guid" value="d0c00951-4d09-d1a6-2ab3-6c6ba1932a25" />
+					<attribute id="EditorSourceFile" type="LSString" value="Editor/Mods/GustavDev/Timeline/Generated/WYR_Circus_AD_LoveDryad.tml" />
+					<attribute id="EditorTimelineType" type="int32" value="4" />
+					<attribute id="FadeOutDuration" type="float" value="0" />
+					<attribute id="FadeOutOnEnd" type="bool" value="False" />
+					<attribute id="ID" type="FixedString" value="3415cd54-0beb-4534-8405-e255cb5cc341" />
+					<attribute id="IsGenerated" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="WYR_Circus_AD_LoveDryad_000" />
+					<attribute id="SourceFile" type="LSString" value="Public/EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4/Timeline/Generated/WYR_Circus_LoveDryad_000.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
