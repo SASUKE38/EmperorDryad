@@ -1,0 +1,17 @@
+DRYAD TIMELINE: 3415cd54-0beb-4534-8405-e255cb5cc341
+DRYAD DIALOGS BINARY: 6da39ee7-90fb-49bb-b719-2ee5d5371078
+DRYAD SCENE: d7cf4ece-419f-423b-ac6d-004b1d363687
+
+F:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data\Public\EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4\Timeline\Generated
+F:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data\Mods\EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4\Story\DialogsBinary\Act3\Wyrm
+
+After dialog text is updated:
+decompile dialogs binary file
+change the UUIDS in the DialogsBinary file to the timeline and dialogs binary UUIDS above
+recompile dialogs binary file
+decompile timeline if not already decompiled (should already be decompiled)
+Add phases in the timeline. Each should have the UUID of an answer
+Add the phase to the list of phase indices in TimelinePhases
+Add required effect components
+recompile timeline
+create project .pak
