@@ -1,0 +1,43 @@
+Emperor Dryad Phases
+
+* = base effect components (voice, camera) added
+% = base effect components (voice, camera) bugged
+
+Question 1:
+*246 - The Emperor: A lone illithid, an outsider among outsiders. - h274e5999g7dddg3520g59a0gd2234fc401a7
+*247 - The mind flayer's life is a sea of success and failure, joy and woe. Let us begin with the light. What brings it the most happiness? - h55f9821eg851bgbd3eg9943g6b17ef74aa01
+*248 - Consuming minds is mandatory for my survival. The process is euphoric, but it does not bring me happiness. - h96237685g90adg1e80g2dd0g886cfbe7c9c0
+*249 - My time with you has proven that to be true. I had all but given up on such joys... - hea037bcbg51dbg05acg33fcgaf027b6172e9
+*250 - How little you must think of me. I do what is necessary, regardless of whether or not it brings me joy. - h027a906fg17a9g0441g7d4ag6c313e363f5d
+*251 - Before meeting you, that was the highlight of my illithid life. I enjoyed it... and the company of Belynne. - heb6b455bgdae6gc50bgd528g1d6023ed2199
+%252 - The highlight of my old life. I must admit, these past months have reminded me of its thrills. - h45e83bf2ge4b8g80dbgcb84g6c0519d73073
+
+Question 2
+253 - The Emperor's shores know well the waves of loss - what does it miss the most? - h483c0c6eg9b98gf55dg4c7agd0464497ebc1
+254 - My relationship with Belynne was complex. I would only save parts of it from the void of the past. - h2e0983fag3f7ag9fe0g27ceg47ac93aff49c
+255 - I remember her love to this day. I cherish it still. - hc02ab203ge706g118dg4759g22bfbb785d50
+256 - Not the soup itself... but I do mourn its referents. It evokes a time when I had... companions. And joy was plentiful. - hcd3a2736g08dcgcd8cgdd6bg3514fe6f1e73
+257 - I enjoyed the fame then. Now I see it for what it is: superficiality. - hc6d80fdag8f18g18f2gd2b7ge81678c95b1f
+258 - This is my city. But I do not need its approval. - h8cedac20g9bf8geb2bg5161g9610c38740a7
+259 - Have you not been listening to me? I have made my appreciation of this form clear. I would never return to my old body. - h5bd68fc3g4739g0fcegd0f2g55dd01561151
+260 - Ansur... I miss the affection he offered me before my evolution. In the end, he felt only unwarranted sorrow towards me.  - h015bdaa2g18e4g53a9g51aag74e197dc30bd
+261 - A reunion now would end as poorly as it did then. Neither he nor I should relive those final days. - hc485b329gb31ag0adbg64f4gad5deecb0a35
+262 - Judgement by those close to me, yes. I am fond of my body, yet its appearance renders socialization... difficult. - hce0f3d36g5861g20bag9cfcgec58f222c796
+
+Question 3
+263 - A dreaded fear lurks In the oceanic depths of The Emperor's being. You must dredge for it - what is this deepest of all fears? - h2b44e3b2ga97cga8ebg7530gb5e80aef8a7e
+264 - My illithidness renders me vulnerable to being leashed to another for eternity. I would choose death over such oblivion. - h2d66713ag82d5g7b3fgb2e2g67508e574923
+265 - My food replenishes itself. I am not conernced with its quantity. - hb536930dg0e33gf3ceg3652g0088ba4c0f89
+266 - I have lost my free will twice before. That nightmare will not plague my mind again. - h9a7556c7g03c1gcd7fgb1dage1433afb4839
+267 - ... - hcfe6b42fgc8b4g3177g12b5g3fa7c6abee96
+268 - ...Yes. - ha75e5dc4g30dfg1643gdfdeg361c4aec9dce
+
+Results
+269 - A disappointing performance. Our mental bond has done nothing for your understanding of me. - h560bdc1age425g98c5ge0b1g5d2f77e86707
+270 - You have studied me. I am... flattered. Few have known me so well. - heecc95d0g8540gced8g34b2g5f5415ad9f5f
+271 - You did well. I am pleased that you would offer a mind flayer such attention. - h33f87e7aga0ccg64d4g6160ga4213bbed728
+
+Requests
+272 - This could be an interesting diversion. I will indulge. - hae614c04ge8a2g2e52gb6c2gb74ce2fb4bb2
+273 - No. We are allies - nothing more. - h05f67238g8b6agef34g706bg33e6b434e4ae
+274 - I'm sorry, but one of your other allies would be better suited for this. - h68dcd6d2g3a8cge349ge4b0ge138ac31ce83

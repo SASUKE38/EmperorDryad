@@ -2,6 +2,15 @@ DRYAD TIMELINE: 3415cd54-0beb-4534-8405-e255cb5cc341
 DRYAD DIALOGS BINARY: 6da39ee7-90fb-49bb-b719-2ee5d5371078
 DRYAD SCENE: d7cf4ece-419f-423b-ac6d-004b1d363687
 
+Zethino Timeline Speaker ID: 88daec4b-9d2b-404f-909a-b7230c1445c3
+Emperor Timeline Speaker ID: ef9ec37b-d877-4484-9c24-cbfe86bafd1a
+
+PHASE 252 CAMERA BUGGED
+
+Answer cams: 
+Right?: f1829f06-f5ac-4ff5-81af-36733680af55
+Wrong?: 82c5a12e-fa9a-4da4-83e5-da735dbc5eb1
+
 F:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data\Public\EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4\Timeline\Generated
 F:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data\Mods\EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4\Story\DialogsBinary\Act3\Wyrm
 
@@ -9,9 +18,9 @@ After dialog text is updated:
 decompile dialogs binary file
 change the UUIDS in the DialogsBinary file to the timeline and dialogs binary UUIDS above
 recompile dialogs binary file
-decompile timeline if not already decompiled (should already be decompiled)
+decompile timeline if not already decompiled
 Add phases in the timeline. Each should have the UUID of an answer
 Add the phase to the list of phase indices in TimelinePhases
-Add required effect components
+Add required effect components, each with a new UUID
 recompile timeline
 create project .pak
