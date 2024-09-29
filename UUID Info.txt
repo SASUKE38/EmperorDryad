@@ -11,6 +11,12 @@ Answer cams:
 Right?: f1829f06-f5ac-4ff5-81af-36733680af55
 Wrong?: 82c5a12e-fa9a-4da4-83e5-da735dbc5eb1
 
+Correct Results Cams: (based on phase 79)
+819.2051-821.2051: 18980ca6-c8cd-41e5-aed6-aa295c0cdf04
+821.2051-825.87506: 7eca3c1b-c746-415e-977b-5ae87b1d31be
+825.87506-828.91504: 00000000-0000-0000-0000-000000000000
+828.9151-830.50507: 153b7333-b124-4d3b-95f5-a2ef3601300e
+
 F:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data\Public\EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4\Timeline\Generated
 F:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data\Mods\EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4\Story\DialogsBinary\Act3\Wyrm
 
