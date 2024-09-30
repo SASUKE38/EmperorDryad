@@ -46,3 +46,6 @@ Requests
 *276 - Though it would be inadvisable for an illithid to step out of an astral portal in the middle of a crowded circus. - hba3fa6e3g1c20g186cgc276gf0e2a5693fe3
 *277 - I understand, stira. Do not fear; the eyes of others will be blind to us. - h78b6c029g3488g2232ge866ga5eeac62dacf
 *278 - I can. But the portal would be questionable enough. - hf6d0cb5cga651ga812ge49dg529597278491
+
+Cinematic:
+279 (Original: 172) - f6b26237-6636-bfc6-1016-b7d6af104f44

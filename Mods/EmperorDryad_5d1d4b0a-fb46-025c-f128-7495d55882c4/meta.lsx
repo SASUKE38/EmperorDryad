@@ -24,7 +24,7 @@
                     <attribute id="FileSize" type="uint64" value="0"/>
                     <attribute id="Folder" type="LSString" value="EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="5176fc5b447f462bb9fdb3cf54d02541"/>
+                    <attribute id="MD5" type="LSString" value="d7faba8fd5ce6b76f9d6c9ad2c16edfb"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="EmperorDryad"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -32,7 +32,7 @@
                     <attribute id="PublishHandle" type="uint64" value="0"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="5d1d4b0a-fb46-025c-f128-7495d55882c4"/>
-                    <attribute id="Version64" type="int64" value="36028797018964018"/>
+                    <attribute id="Version64" type="int64" value="36028797018964048"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>

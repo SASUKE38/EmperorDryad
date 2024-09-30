@@ -6,17 +6,35 @@ Zethino Timeline Speaker ID: 88daec4b-9d2b-404f-909a-b7230c1445c3
 Emperor Timeline Speaker ID: ef9ec37b-d877-4484-9c24-cbfe86bafd1a
 
 TODO:
-
+Hide Emperor at all greetings
+Hide Emperor at end of results phases
+Hide all others at start of Emperor section or make it so that the test can only be done with an empty party
+Add animations
 
 Answer cams: 
 Right?: f1829f06-f5ac-4ff5-81af-36733680af55
 Wrong?: 82c5a12e-fa9a-4da4-83e5-da735dbc5eb1
+
+Original end: 2471.6099
+
+
+
+Timeline visual: line 3511
 
 Correct Results Cams: (based on phase 79)
 819.2051-821.2051 (2701.6099-2703.6099): 18980ca6-c8cd-41e5-aed6-aa295c0cdf04
 821.2051-825.87506 (2703.6099-2708.27986): 7eca3c1b-c746-415e-977b-5ae87b1d31be
 825.87506-828.91504 (2708.27986-2711.31984): 00000000-0000-0000-0000-000000000000
 828.9151-830.50507 (2711.31984-2712.90987): 153b7333-b124-4d3b-95f5-a2ef3601300e
+
+Circus Stage UUIDS: 
+cbb0644f-8ba2-4b9c-b9c1-4611b69abbef
+b6d8def0-3d72-4031-93b4-69f6028290f2
+de88a131-02e0-4a2d-8031-ac4f605274bf
+4bae4bee-045b-4d1b-9a90-ba19784b7812
+6b143d76-0ee5-4b54-b25e-f8455d102530
+
+Scene Bounds: 12.06263 0.46911094 7.351493
 
 F:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data\Public\EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4\Timeline\Generated
 F:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data\Mods\EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4\Story\DialogsBinary\Act3\Wyrm
