@@ -2,6 +2,7 @@ Emperor Dryad Phases
 
 * = base effect components (voice, camera) added
 % = base effect components (voice, camera) bugged
++ = components copied from existing
 
 Question 1:
 *246 - The Emperor: A lone illithid, an outsider among outsiders. - h274e5999g7dddg3520g59a0gd2234fc401a7
@@ -28,16 +29,20 @@ Question 3
 *263 - A dreaded fear lurks In the oceanic depths of The Emperor's being. You must dredge for it - what is this deepest of all fears? - h2b44e3b2ga97cga8ebg7530gb5e80aef8a7e
 *264 - My illithidness renders me vulnerable to being leashed to another for eternity. I would choose death over such oblivion. - h2d66713ag82d5g7b3fgb2e2g67508e574923
 *265 - My food replenishes itself. I am not conernced with its quantity. - hb536930dg0e33gf3ceg3652g0088ba4c0f89
+*275 - You insult me. I may be illithid, but that does not mean all I think of is food. - h9d300cccg1b96g0fa5gc584g3ffd0df96c16
 *266 - I have lost my free will twice before. That nightmare will not plague my mind again. - h9a7556c7g03c1gcd7fgb1dage1433afb4839
 *267 - ... - hcfe6b42fgc8b4g3177g12b5g3fa7c6abee96
 *268 - ...Yes. - ha75e5dc4g30dfg1643gdfdeg361c4aec9dce
 
 Results
-269 - You have studied me. I am... flattered. Few have known me so well. - heecc95d0g8540gced8g34b2g5f5415ad9f5f
-270 - You did well. I am pleased that you would offer a mind flayer such attention. - h33f87e7aga0ccg64d4g6160ga4213bbed728
-271 - A disappointing performance. Our mental bond has done nothing for your understanding of me. - h560bdc1age425g98c5ge0b1g5d2f77e86707
++269 - You have studied me. I am... flattered. Few have known me so well. - heecc95d0g8540gced8g34b2g5f5415ad9f5f
++270 - You did well. I am pleased that you would offer a mind flayer such attention. - h33f87e7aga0ccg64d4g6160ga4213bbed728
++271 - A disappointing performance. Our mental bond has done nothing for your understanding of me. - h560bdc1age425g98c5ge0b1g5d2f77e86707
 
 Requests
-272 - This could be an interesting diversion. I will indulge. - hae614c04ge8a2g2e52gb6c2gb74ce2fb4bb2
-273 - No. We are allies - nothing more. - h05f67238g8b6agef34g706bg33e6b434e4ae
-274 - I'm sorry, but one of your other allies would be better suited for this. - h68dcd6d2g3a8cge349ge4b0ge138ac31ce83
+*272 - This could be an interesting diversion. I will indulge. - hae614c04ge8a2g2e52gb6c2gb74ce2fb4bb2
+*273 - No. We are allies - nothing more. - h05f67238g8b6agef34g706bg33e6b434e4ae
+*274 - I'm sorry, but one of your other allies would be better suited for this. - h68dcd6d2g3a8cge349ge4b0ge138ac31ce83
+*276 - Though it would be inadvisable for an illithid to step out of an astral portal in the middle of a crowded circus. - hba3fa6e3g1c20g186cgc276gf0e2a5693fe3
+*277 - I understand, stira. Do not fear; the eyes of others will be blind to us. - h78b6c029g3488g2232ge866ga5eeac62dacf
+*278 - I can. But the portal would be questionable enough. - hf6d0cb5cga651ga812ge49dg529597278491

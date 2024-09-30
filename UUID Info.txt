@@ -5,17 +5,18 @@ DRYAD SCENE: d7cf4ece-419f-423b-ac6d-004b1d363687
 Zethino Timeline Speaker ID: 88daec4b-9d2b-404f-909a-b7230c1445c3
 Emperor Timeline Speaker ID: ef9ec37b-d877-4484-9c24-cbfe86bafd1a
 
-PHASE 252 CAMERA BUGGED
+TODO:
+
 
 Answer cams: 
 Right?: f1829f06-f5ac-4ff5-81af-36733680af55
 Wrong?: 82c5a12e-fa9a-4da4-83e5-da735dbc5eb1
 
 Correct Results Cams: (based on phase 79)
-819.2051-821.2051: 18980ca6-c8cd-41e5-aed6-aa295c0cdf04
-821.2051-825.87506: 7eca3c1b-c746-415e-977b-5ae87b1d31be
-825.87506-828.91504: 00000000-0000-0000-0000-000000000000
-828.9151-830.50507: 153b7333-b124-4d3b-95f5-a2ef3601300e
+819.2051-821.2051 (2701.6099-2703.6099): 18980ca6-c8cd-41e5-aed6-aa295c0cdf04
+821.2051-825.87506 (2703.6099-2708.27986): 7eca3c1b-c746-415e-977b-5ae87b1d31be
+825.87506-828.91504 (2708.27986-2711.31984): 00000000-0000-0000-0000-000000000000
+828.9151-830.50507 (2711.31984-2712.90987): 153b7333-b124-4d3b-95f5-a2ef3601300e
 
 F:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data\Public\EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4\Timeline\Generated
 F:\SteamLibrary\steamapps\common\Baldurs Gate 3\Data\Mods\EmperorDryad_5d1d4b0a-fb46-025c-f128-7495d55882c4\Story\DialogsBinary\Act3\Wyrm
@@ -30,3 +31,133 @@ Add the phase to the list of phase indices in TimelinePhases
 Add required effect components, each with a new UUID
 recompile timeline
 create project .pak
+
+
+<node id="EffectComponent">
+									<attribute id="Type" type="LSString" value="TLAnimation" />
+									<attribute id="ID" type="guid" value="f5d4bd09-5ded-4426-93e0-3b43b9fa0747" />
+									<attribute id="StartTime" type="float" value="2706.62982" />
+									<attribute id="EndTime" type="float" value="2708.27986" />
+									<attribute id="PhaseIndex" type="int64" value="269" />
+									<attribute id="AnimationSourceId" type="guid" value="13405ac3-2cbf-4e32-ab41-a49075992ca0" />
+									<attribute id="FadeIn" type="double" value="0" />
+									<attribute id="FadeOut" type="double" value="0" />
+									<attribute id="OffsetType" type="uint8" value="1" />
+									<attribute id="AnimationGroup" type="guid" value="69c7c8a4-df44-46f0-b729-9b70cf810b5a" />
+									<attribute id="IsMirrored" type="bool" value="True" />
+									<children>
+										<node id="Actor">
+											<attribute id="UUID" type="guid" value="ef9ec37b-d877-4484-9c24-cbfe86bafd1a" />
+											<attribute id="PeanutOverride" type="bool" value="True" />
+										</node>
+									</children>
+								</node>
+<node id="EffectComponent">
+									<attribute id="Type" type="LSString" value="TLAnimation" />
+									<attribute id="ID" type="guid" value="1df6f84c-7a0b-4073-950d-db703fbc6d51" />
+									<attribute id="StartTime" type="float" value="2703.6099" />
+									<attribute id="EndTime" type="float" value="2706.08986" />
+									<attribute id="PhaseIndex" type="int64" value="269" />
+									<attribute id="AnimationSourceId" type="guid" value="d7be2151-89d7-4af1-9401-e40a6668aee8" />
+									<attribute id="AnimationPlayStartOffset" type="double" value="2.790000000000001" />
+									<attribute id="FadeIn" type="double" value="0" />
+									<attribute id="FadeOut" type="double" value="0.5400000000000005" />
+									<attribute id="EnableRootMotion" type="bool" value="True" />
+									<attribute id="AnimationGroup" type="guid" value="69c7c8a4-df44-46f0-b729-9b70cf810b5a" />
+									<children>
+										<node id="Actor">
+											<attribute id="UUID" type="guid" value="ef9ec37b-d877-4484-9c24-cbfe86bafd1a" />
+											<attribute id="PeanutOverride" type="bool" value="True" />
+										</node>
+									</children>
+								</node>
+<node id="EffectComponent">
+									<attribute id="Type" type="LSString" value="TLTransform" />
+									<attribute id="ID" type="guid" value="279a6f71-9e7c-4c87-9739-948186fae303" />
+									<attribute id="StartTime" type="float" value="2701.60990" />
+									<attribute id="EndTime" type="float" value="2715.68995" />
+									<attribute id="PhaseIndex" type="int64" value="269" />
+									<children>
+										<node id="Actor">
+											<attribute id="UUID" type="guid" value="7eca3c1b-c746-415e-977b-5ae87b1d31be" />
+										</node>
+										<node id="TransformChannels">
+											<children>
+												<node id="TransformChannel">
+													<children>
+														<node id="Keys">
+															<children>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2703.60990" />
+																	<attribute id="InterpolationType" type="uint8" value="2" />
+																	<attribute id="Value" type="float" value="-0.4849365" />
+																</node>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2709.67991" />
+																	<attribute id="InterpolationType" type="uint8" value="5" />
+																	<attribute id="Value" type="float" value="-0.4324273" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="TransformChannel">
+													<children>
+														<node id="Keys">
+															<children>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2703.60990" />
+																	<attribute id="InterpolationType" type="uint8" value="2" />
+																	<attribute id="Value" type="float" value="1.191127" />
+																</node>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2709.67991" />
+																	<attribute id="InterpolationType" type="uint8" value="5" />
+																	<attribute id="Value" type="float" value="1.258478" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="TransformChannel">
+													<children>
+														<node id="Keys">
+															<children>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2703.60990" />
+																	<attribute id="InterpolationType" type="uint8" value="2" />
+																	<attribute id="Value" type="float" value="3.406692" />
+																</node>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2709.67991" />
+																	<attribute id="InterpolationType" type="uint8" value="5" />
+																	<attribute id="Value" type="float" value="2.478544" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="TransformChannel">
+													<children>
+														<node id="Keys">
+															<children>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2703.60990" />
+																	<attribute id="InterpolationType" type="uint8" value="2" />
+																	<attribute id="Value" type="fvec4" value="-1.2538905E-05 0.9995715 -0.0066950833 0.028496867" />
+																</node>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2709.67991" />
+																	<attribute id="InterpolationType" type="uint8" value="5" />
+																	<attribute id="Value" type="fvec4" value="-1.2538905E-05 0.9995715 -0.0066950833 0.028496867" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="TransformChannel" />
+												<node id="TransformChannel" />
+											</children>
+										</node>
+									</children>
+								</node>
