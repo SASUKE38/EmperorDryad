@@ -7,7 +7,7 @@ Emperor Timeline Speaker ID: ef9ec37b-d877-4484-9c24-cbfe86bafd1a
 
 TODO: + = done
 +Add new phases to timeline
-Hide Emperor at all greetings (current hidden component is part of phase 3) (phases to add hide to: 1, 9, 7, 10, +0 (c1d267d5-25ca-ec12-39d5-f2089e21c761), 3 (grouped), 2, 8, 4, 6, 5)
++Hide Emperor at all greetings (current hidden component is part of phase 3) (phases to add hide to: 1, 9, 7, 10, +0 (c1d267d5-25ca-ec12-39d5-f2089e21c761), 3 (grouped), 2, 8, 4, 6, 5)
 Hide Emperor at end of results phases
 +Hide all others at start of Emperor section or make it so that the test can only be done with an empty party
 Try to figure out what is going on with those two bugged camera angles
