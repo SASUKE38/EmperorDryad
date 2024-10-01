@@ -11,7 +11,7 @@ Question 1:
 *249 - My time with you has proven that to be true. I had all but given up on such joys... - hea037bcbg51dbg05acg33fcgaf027b6172e9
 *250 - How little you must think of me. I do what is necessary, regardless of whether or not it brings me joy. - h027a906fg17a9g0441g7d4ag6c313e363f5d
 *251 - Before meeting you, that was the highlight of my illithid life. I enjoyed it... and the company of Belynne. - heb6b455bgdae6gc50bgd528g1d6023ed2199
-%252 - The highlight of my old life. I must admit, these past months have reminded me of its thrills. - h45e83bf2ge4b8g80dbgcb84g6c0519d73073
+*252 - The highlight of my old life. I must admit, these past months have reminded me of its thrills. - h45e83bf2ge4b8g80dbgcb84g6c0519d73073
 
 Question 2
 *253 - The Emperor's shores know well the waves of loss - what does it miss the most? - h483c0c6eg9b98gf55dg4c7agd0464497ebc1
@@ -21,7 +21,7 @@ Question 2
 *257 - I enjoyed the fame then. Now I see it for what it is: superficiality. - hc6d80fdag8f18g18f2gd2b7ge81678c95b1f
 *258 - This is my city. But I do not need its approval. - h8cedac20g9bf8geb2bg5161g9610c38740a7
 *259 - Have you not been listening to me? I have made my appreciation of this form clear. I would never return to my old body. - h5bd68fc3g4739g0fcegd0f2g55dd01561151
-%260 - Ansur... I miss the affection he offered me before my evolution. In the end, he felt only unwarranted sorrow towards me.  - h015bdaa2g18e4g53a9g51aag74e197dc30bd
+*260 - Ansur... I miss the affection he offered me before my evolution. In the end, he felt only unwarranted sorrow towards me.  - h015bdaa2g18e4g53a9g51aag74e197dc30bd
 *261 - A reunion now would end as poorly as it did then. Neither he nor I should relive those final days. - hc485b329gb31ag0adbg64f4gad5deecb0a35
 *262 - Judgement by those close to me, yes. I am fond of my body, yet its appearance renders socialization... difficult. - hce0f3d36g5861g20bag9cfcgec58f222c796
 

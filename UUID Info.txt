@@ -8,9 +8,14 @@ Emperor Timeline Speaker ID: ef9ec37b-d877-4484-9c24-cbfe86bafd1a
 TODO: + = done
 +Add new phases to timeline
 +Hide Emperor at all greetings (current hidden component is part of phase 3) (phases to add hide to: 1, 9, 7, 10, +0 (c1d267d5-25ca-ec12-39d5-f2089e21c761), 3 (grouped), 2, 8, 4, 6, 5)
-Hide Emperor at end of results phases
++Hide Emperor at end of results phases (269, 270, 271); NOW REMOVED SINCE REDUNDANCY HIDES WORK BETTER
++Add redundancy show and hide for emperor; 
+	+show phases: 104 d396be7d-f2eb-4c44-cb05-e419c6c8828a, 36 ffd200d8-a005-fae9-6838-a3a4ebe3be42; 
+	+hide phases: 57 a4b76105-0d87-87cf-4106-113a92668f80, 135 361e811a-4c69-1759-e51d-9c6d6e083d35, 93 c204823a-d240-c86e-70cc-312eee999e81, 213 51a6f3e0-2ece-053e-290e-c2a6c1029ad5, 239 1b094e42-6a5b-dd50-27b6-e1fd0f26a127
 +Hide all others at start of Emperor section or make it so that the test can only be done with an empty party
-Try to figure out what is going on with those two bugged camera angles
++Try to figure out what is going on with those two bugged camera angles
++Make sure success nodes have the right phase length in the phases section
+Reword "that was kind of you" line
 Reduce zoom on success cameras
 Add animations
 Make sure node 3a838abf-b0d5-b7e8-e805-e547f3ef3ed0 doesn't block the emperor's test
@@ -21,7 +26,7 @@ Wrong?: 82c5a12e-fa9a-4da4-83e5-da735dbc5eb1
 
 Original end: 2471.6099
 
-
+Cam position? <attribute id="Position" type="fvec3" value="-0.19633415 -0.16620779 0.83014345" /> <attribute id="RotationQuat" type="fvec4" value="0.0024782717 0.99400324 -0.023000201 0.10687669" />
 
 Timeline visual: line 3511
 
@@ -54,6 +59,28 @@ Add required effect components, each with a new UUID
 recompile timeline
 create project .pak
 
+<node id="EffectComponent">
+									<attribute id="Type" type="LSString" value="TLShowVisual" />
+									<attribute id="ID" type="guid" value="289fbb32-9077-495c-bb9f-42570d2a9b00" />
+									<attribute id="StartTime" type="float" value="2701.6099" />
+									<attribute id="EndTime" type="float" value="2712.90987" />
+									<attribute id="PhaseIndex" type="int64" value="269" />
+									<attribute id="IsSnappedToEnd" type="bool" value="True" />
+									<children>
+										<node id="Actor">
+											<attribute id="UUID" type="guid" value="ef9ec37b-d877-4484-9c24-cbfe86bafd1a" />
+										</node>
+										<node id="Keys">
+											<children>
+												<node id="Key">
+													<attribute id="Time" type="float" value="2712.90987" />
+													<attribute id="InterpolationType" type="uint8" value="3" />
+													<attribute id="ShowVisual" type="bool" value="False" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
 
 <node id="EffectComponent">
 									<attribute id="Type" type="LSString" value="TLAnimation" />
