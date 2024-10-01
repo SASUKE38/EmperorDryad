@@ -5,11 +5,15 @@ DRYAD SCENE: d7cf4ece-419f-423b-ac6d-004b1d363687
 Zethino Timeline Speaker ID: 88daec4b-9d2b-404f-909a-b7230c1445c3
 Emperor Timeline Speaker ID: ef9ec37b-d877-4484-9c24-cbfe86bafd1a
 
-TODO:
-Hide Emperor at all greetings
+TODO: + = done
++Add new phases to timeline
+Hide Emperor at all greetings (current hidden component is part of phase 3) (phases to add hide to: 1, 9, 7, 10, +0 (c1d267d5-25ca-ec12-39d5-f2089e21c761), 3 (grouped), 2, 8, 4, 6, 5)
 Hide Emperor at end of results phases
-Hide all others at start of Emperor section or make it so that the test can only be done with an empty party
++Hide all others at start of Emperor section or make it so that the test can only be done with an empty party
+Try to figure out what is going on with those two bugged camera angles
+Reduce zoom on success cameras
 Add animations
+Make sure node 3a838abf-b0d5-b7e8-e805-e547f3ef3ed0 doesn't block the emperor's test
 
 Answer cams: 
 Right?: f1829f06-f5ac-4ff5-81af-36733680af55

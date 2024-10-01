@@ -46,6 +46,12 @@ Requests
 *276 - Though it would be inadvisable for an illithid to step out of an astral portal in the middle of a crowded circus. - hba3fa6e3g1c20g186cgc276gf0e2a5693fe3
 *277 - I understand, stira. Do not fear; the eyes of others will be blind to us. - h78b6c029g3488g2232ge866ga5eeac62dacf
 *278 - I can. But the portal would be questionable enough. - hf6d0cb5cga651ga812ge49dg529597278491
+*280 - I would like to... but can you dismiss your other allies? - hddee6ae3g80a7g51c9g4f17g7356e48f6840
+*281 - Thank you. - ha7016188g23ddgb3f6g404dg16b9e4363a11
+*282 - They do not need to know the details of our relationship. - hf2637479gc898gc0e9g0eddgf88aa16a0f40
+*283 - It seems we did not even need the help of the dryad to know if we are compatible or not. - h12a19398g5b23gda6ag53aag43e9a2c6c297
+*284 - Have your beloved reach out to me. That will be enough. - h416fa7f1gcc46gf1cdg56afg0c179afb711c
+
 
 Cinematic:
-279 (Original: 172) - f6b26237-6636-bfc6-1016-b7d6af104f44
++279 (Original: 172) - f6b26237-6636-bfc6-1016-b7d6af104f44
