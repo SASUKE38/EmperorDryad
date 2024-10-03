@@ -7,7 +7,7 @@ Emperor Timeline Speaker ID: ef9ec37b-d877-4484-9c24-cbfe86bafd1a
 
 TODO: + = done
 +Add new phases to timeline
-+Hide Emperor at all greetings (current hidden component is part of phase 3) (phases to add hide to: 1, 9, 7, 10, +0 (c1d267d5-25ca-ec12-39d5-f2089e21c761), 3 (grouped), 2, 8, 4, 6, 5)
++Hide Emperor at all greetings (current hidden component is part of phase 3) (phases to add hide to: 1, 9, 7, 10,  (c1d267d5-25ca-ec12-39d5-f2089e21c761), 3 (grouped), 2, 8, 4, 6, 5)
 +Hide Emperor at end of results phases (269, 270, 271); NOW REMOVED SINCE REDUNDANCY HIDES WORK BETTER
 +Add redundancy show and hide for emperor; 
 	+show phases: 104 d396be7d-f2eb-4c44-cb05-e419c6c8828a, 36 ffd200d8-a005-fae9-6838-a3a4ebe3be42; 
@@ -15,10 +15,21 @@ TODO: + = done
 +Hide all others at start of Emperor section or make it so that the test can only be done with an empty party
 +Try to figure out what is going on with those two bugged camera angles
 +Make sure success nodes have the right phase length in the phases section
-Reword "that was kind of you" line
-Reduce zoom on success cameras
-Add animations
++Reword "that was kind of you" line
++Reduce zoom on success bridge camera
++Adjust zoom of or fix animation for OTS success cam
+	Success cam facing waterfall rotation: -0.002217, 176.7300933, -1.1837299
+	settled on rotation angle: 0, 250, 20
++Move redundancy shows to "lone illithid" zethino line
++Remove looking around at start animation for emperor since it is way faster than he usually moves and it was not made for his rig
++Edit party member dismissal lines, or remove with IMPOSSIBLE if hiding all companions at start of emperor cinematic phase 279 works
++Copy phase 270 18980ca6-c8cd-41e5-aed6-aa295c0cdf04 camera TLTransform to phase 269
++Fix phase 269 and 270 wide shot/couple cam not seeming like it is long enough
+Fix success walking animation: change to floating
+Check that the hide nodes don't mess up non emperor tests
 Make sure node 3a838abf-b0d5-b7e8-e805-e547f3ef3ed0 doesn't block the emperor's test
+Add dialogue animations (.ffxanim, .gr2)
+Retime all effect components and phases >=246 (REMEMBER TO SET NEW TOTAL TIME)
 
 Answer cams: 
 Right?: f1829f06-f5ac-4ff5-81af-36733680af55
@@ -58,6 +69,78 @@ Add the phase to the list of phase indices in TimelinePhases
 Add required effect components, each with a new UUID
 recompile timeline
 create project .pak
+
+from line 288823
+<node id="EffectComponent">
+									<attribute id="Type" type="LSString" value="TLTransform" />
+									<attribute id="ID" type="guid" value="314af7a1-117f-4661-a375-5439631303dc" />
+									<attribute id="StartTime" type="float" value="2712.90987" />
+									<attribute id="EndTime" type="float" value="2720.20986" />
+									<attribute id="PhaseIndex" type="int64" value="270" />
+									<children>
+										<node id="Actor">
+											<attribute id="UUID" type="guid" value="18980ca6-c8cd-41e5-aed6-aa295c0cdf04" />
+										</node>
+										<node id="TransformChannels">
+											<children>
+												<node id="TransformChannel">
+													<children>
+														<node id="Keys">
+															<children>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2712.90987" />
+																	<attribute id="InterpolationType" type="uint8" value="2" />
+																	<attribute id="Value" type="float" value="-0.19633415" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="TransformChannel">
+													<children>
+														<node id="Keys">
+															<children>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2712.90987" />
+																	<attribute id="InterpolationType" type="uint8" value="2" />
+																	<attribute id="Value" type="float" value="-0.16620779" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="TransformChannel">
+													<children>
+														<node id="Keys">
+															<children>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2712.90987" />
+																	<attribute id="InterpolationType" type="uint8" value="2" />
+																	<attribute id="Value" type="float" value="0.83014345" />
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="TransformChannel">
+													<children>
+														<node id="Keys">
+															<children>
+																<node id="Key">
+																	<attribute id="Time" type="float" value="2712.90987" />
+																	<attribute id="InterpolationType" type="uint8" value="5" />
+																	<attribute id="Value" type="fvec4" value="0.0024782717 0.99400324 -0.023000201 0.10687669" />
+																</node>                                                               
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="TransformChannel" />
+												<node id="TransformChannel" />
+											</children>
+										</node>
+									</children>
+								</node>
 
 <node id="EffectComponent">
 									<attribute id="Type" type="LSString" value="TLShowVisual" />
