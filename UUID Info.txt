@@ -25,11 +25,13 @@ TODO: + = done
 +Edit party member dismissal lines, or remove with IMPOSSIBLE if hiding all companions at start of emperor cinematic phase 279 works
 +Copy phase 270 18980ca6-c8cd-41e5-aed6-aa295c0cdf04 camera TLTransform to phase 269
 +Fix phase 269 and 270 wide shot/couple cam not seeming like it is long enough
-Fix success walking animation: change to floating
-Check that the hide nodes don't mess up non emperor tests
++Fix success walking animation: change to floating
++Check that the hide nodes don't mess up non emperor tests
+Add additional transform for success OTS cam that moves from rotation 0 0.8125383 0.0650031 -0.5792721 to 0 0.7989719 0.1118561 -0.590874 when the emperor stops moving forward
 Make sure node 3a838abf-b0d5-b7e8-e805-e547f3ef3ed0 doesn't block the emperor's test
 Add dialogue animations (.ffxanim, .gr2)
 Retime all effect components and phases >=246 (REMEMBER TO SET NEW TOTAL TIME)
+IF ABLE: Fix slide back on floating success animation
 
 Answer cams: 
 Right?: f1829f06-f5ac-4ff5-81af-36733680af55
