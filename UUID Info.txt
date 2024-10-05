@@ -28,7 +28,7 @@ TODO: + = done
 +Fix success walking animation: change to floating
 +Check that the hide nodes don't mess up non emperor tests
 +Add additional transform for success OTS cam that moves from rotation 0 0.8125383 0.0650031 -0.5792721 to 0 0.7989719 0.1118561 -0.590874 when the emperor stops moving forward
-Make sure node 3a838abf-b0d5-b7e8-e805-e547f3ef3ed0 doesn't block the emperor's test
++Make sure node 3a838abf-b0d5-b7e8-e805-e547f3ef3ed0 doesn't block the emperor's test
 Add dialogue animations (.ffxanim, .gr2)
 Retime all effect components and phases >=246 (REMEMBER TO SET NEW TOTAL TIME)
 IF ABLE: Fix slide back on floating success animation
