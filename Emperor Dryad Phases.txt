@@ -8,12 +8,12 @@ Question 1:
 *246 - 7.0836296/2.9163704 - The Emperor: A lone illithid, an outsider among outsiders. - h274e5999g7dddg3520g59a0gd2234fc401a7 
 *247 - 7.501505/2.498495 - The mind flayer's life is a sea of success and failure, joy and woe. Let us begin with the light. What brings it the most happiness? - h55f9821eg851bgbd3eg9943g6b17ef74aa01 
 *248 - 5.5010867/4.4989133 - Consuming minds is mandatory for my survival. The process is euphoric, but it does not bring me happiness. - h96237685g90adg1e80g2dd0g886cfbe7c9c0 
-*249 - 10.426109 - My time with you has proven that to be true. I had all but given up on such joys... - hea037bcbg51dbg05acg33fcgaf027b6172e9 
+*249 - 6.585228/3.414772 - My time with you has proven that to be true. I had all but given up on such joys... - hea037bcbg51dbg05acg33fcgaf027b6172e9 
 *250 - 5.1238813/4.8761187 - How little you must think of me. I do what is necessary, regardless of whether or not it brings me joy. - h027a906fg17a9g0441g7d4ag6c313e363f5d 
 *251 - 6.585228/3.414772 - Before meeting you, that was the highlight of my illithid life. I enjoyed it... and the company of Belynne. - heb6b455bgdae6gc50bgd528g1d6023ed2199 - 
 *252 - 4.9010243/5.0989757 - The highlight of my old life. I must admit, these past months have reminded me of its thrills. - h45e83bf2ge4b8g80dbgcb84g6c0519d73073 - 
 
-Question 2
+Question 2 36.7184171
 *253 - 8.301731/1.698269 - The Emperor's shores know well the waves of loss - what does it miss the most? - h483c0c6eg9b98gf55dg4c7agd0464497ebc1 - 
 *254 - 7.1414223/2.8585777 - My relationship with Belynne was complex. I would only save parts of it from the void of the past. - h2e0983fag3f7ag9fe0g27ceg47ac93aff49c - 
 *255 - 4.8387136/5.1612864 - I remember her love to this day. I cherish it still. - hc02ab203ge706g118dg4759g22bfbb785d50 - 
@@ -32,12 +32,13 @@ Question 3
 *275 - 5.1238813/4.8761187 - You insult me. I may be illithid, but that does not mean all I think of is food. - h9d300cccg1b96g0fa5gc584g3ffd0df96c16 - 
 *266 - 7.414804/2.585196 - I have lost my free will twice before. That nightmare will not plague my mind again. - h9a7556c7g03c1gcd7fgb1dage1433afb4839 - 
 *267 - 0.76716/9.23284 - ... - hcfe6b42fgc8b4g3177g12b5g3fa7c6abee96
-*268 - .8 - ...Yes. - ha75e5dc4g30dfg1643gdfdeg361c4aec9dce - 
+*268 - 0.76716/9.23284 - 3 - ...Yes. - ha75e5dc4g30dfg1643gdfdeg361c4aec9dce - 
 
 Results
 +269 - 8.430883/1.569117 - You have studied me. I am... flattered. Few have known me so well. - heecc95d0g8540gced8g34b2g5f5415ad9f5f - 
 +270 - 8.430883/1.569117 - You did well. I am pleased that you would offer a mind flayer such attention. - h33f87e7aga0ccg64d4g6160ga4213bbed728 - 
 +271 - 5.6884217/4.3115783 - A disappointing performance. Our mental bond has done nothing for your understanding of me. - h560bdc1age425g98c5ge0b1g5d2f77e86707 - 
+0.1258
 
 Requests
 *272 - 2.8933036/7.1066964 - This could be an interesting diversion. I will indulge. - hae614c04ge8a2g2e52gb6c2gb74ce2fb4bb2
