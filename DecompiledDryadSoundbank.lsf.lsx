@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="VoiceMetaData">
+		<node id="VoiceMetaData">
+			<children>
+				<node id="VoiceSpeakerMetaData">
+					<attribute id="MapKey" type="FixedString" value="a8bce35d-17ee-46e3-8d56-1d0d29c4a01e" />
+					<children>
+						<node id="MapValue">
+							<children>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h274e5999g7dddg3520g59a0gd2234fc401a7" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="7.0836296" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="va8bce35d17ee46e38d561d0d29c4a01e_h274e5999g7dddg3520g59a0gd2234fc401a7" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h55f9821eg851bgbd3eg9943g6b17ef74aa01" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="7.501505" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="va8bce35d17ee46e38d561d0d29c4a01e_h55f9821eg851bgbd3eg9943g6b17ef74aa01" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h483c0c6eg9b98gf55dg4c7agd0464497ebc1" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="8.301731" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="va8bce35d17ee46e38d561d0d29c4a01e_h483c0c6eg9b98gf55dg4c7agd0464497ebc1" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h2b44e3b2ga97cga8ebg7530gb5e80aef8a7e" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="17.251976" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="va8bce35d17ee46e38d561d0d29c4a01e_h2b44e3b2ga97cga8ebg7530gb5e80aef8a7e" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h78b6c029g3488g2232ge866ga5eeac62dacf" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="8.972867" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="va8bce35d17ee46e38d561d0d29c4a01e_h78b6c029g3488g2232ge866ga5eeac62dacf" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h416fa7f1gcc46gf1cdg56afg0c179afb711c" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="5.8712964" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="va8bce35d17ee46e38d561d0d29c4a01e_h416fa7f1gcc46gf1cdg56afg0c179afb711c" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

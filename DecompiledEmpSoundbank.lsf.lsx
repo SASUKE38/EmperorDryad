@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="VoiceMetaData">
+		<node id="VoiceMetaData">
+			<children>
+				<node id="VoiceSpeakerMetaData">
+					<attribute id="MapKey" type="FixedString" value="73d49dc5-8b8b-45dc-a98c-927bb4e3169b" />
+					<children>
+						<node id="MapValue">
+							<children>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h05f67238g8b6agef34g706bg33e6b434e4ae" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="2.1670613" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h05f67238g8b6agef34g706bg33e6b434e4ae" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h6feef99fg184fgfae7g0b25g50eec1e8d851" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="2.8933036" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h6feef99fg184fgfae7g0b25g50eec1e8d851" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hae614c04ge8a2g2e52gb6c2gb74ce2fb4bb2" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="2.8933036" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hae614c04ge8a2g2e52gb6c2gb74ce2fb4bb2" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hddee6ae3g80a7g51c9g4f17g7356e48f6840" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="6.5101123" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hddee6ae3g80a7g51c9g4f17g7356e48f6840" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h68dcd6d2g3a8cge349ge4b0ge138ac31ce83" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="6.5101123" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h68dcd6d2g3a8cge349ge4b0ge138ac31ce83" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="ha7016188g23ddgb3f6g404dg16b9e4363a11" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="7.5682817" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_ha7016188g23ddgb3f6g404dg16b9e4363a11" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h12a19398g5b23gda6ag53aag43e9a2c6c297" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="7.5682817" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h12a19398g5b23gda6ag53aag43e9a2c6c297" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hba3fa6e3g1c20g186cgc276gf0e2a5693fe3" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="10.101983" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hba3fa6e3g1c20g186cgc276gf0e2a5693fe3" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hf6d0cb5cga651ga812ge49dg529597278491" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="5.801024" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hf6d0cb5cga651ga812ge49dg529597278491" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hcfe6b42fgc8b4g3177g12b5g3fa7c6abee96" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="0.76716" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hcfe6b42fgc8b4g3177g12b5g3fa7c6abee96" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h96237685g90adg1e80g2dd0g886cfbe7c9c0" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="5.5010867" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h96237685g90adg1e80g2dd0g886cfbe7c9c0" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h5bd68fc3g4739g0fcegd0f2g55dd01561151" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="10.9042015" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h5bd68fc3g4739g0fcegd0f2g55dd01561151" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hce0f3d36g5861g20bag9cfcgec58f222c796" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="12.220555" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hce0f3d36g5861g20bag9cfcgec58f222c796" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h45e83bf2ge4b8g80dbgcb84g6c0519d73073" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="4.9010243" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h45e83bf2ge4b8g80dbgcb84g6c0519d73073" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h027a906fg17a9g0441g7d4ag6c313e363f5d" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="5.1238813" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h027a906fg17a9g0441g7d4ag6c313e363f5d" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hea037bcbg51dbg05acg33fcgaf027b6172e9" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="10.426109" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hea037bcbg51dbg05acg33fcgaf027b6172e9" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="heb6b455bgdae6gc50bgd528g1d6023ed2199" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="6.585228" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_heb6b455bgdae6gc50bgd528g1d6023ed2199" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hc485b329gb31ag0adbg64f4gad5deecb0a35" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="5.247526" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hc485b329gb31ag0adbg64f4gad5deecb0a35" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hc02ab203ge706g118dg4759g22bfbb785d50" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="4.8387136" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hc02ab203ge706g118dg4759g22bfbb785d50" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hc6d80fdag8f18g18f2gd2b7ge81678c95b1f" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="3.567394" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hc6d80fdag8f18g18f2gd2b7ge81678c95b1f" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h2e0983fag3f7ag9fe0g27ceg47ac93aff49c" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="7.1414223" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h2e0983fag3f7ag9fe0g27ceg47ac93aff49c" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h8cedac20g9bf8geb2bg5161g9610c38740a7" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="3.567394" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h8cedac20g9bf8geb2bg5161g9610c38740a7" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h015bdaa2g18e4g53a9g51aag74e197dc30bd" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="10.101983" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h015bdaa2g18e4g53a9g51aag74e197dc30bd" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hcd3a2736g08dcgcd8cgdd6bg3514fe6f1e73" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="7.0552807" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hcd3a2736g08dcgcd8cgdd6bg3514fe6f1e73" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hb536930dg0e33gf3ceg3652g0088ba4c0f89" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="4.1472335" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hb536930dg0e33gf3ceg3652g0088ba4c0f89" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h9d300cccg1b96g0fa5gc584g3ffd0df96c16" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="5.1238813" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h9d300cccg1b96g0fa5gc584g3ffd0df96c16" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h9a7556c7g03c1gcd7fgb1dage1433afb4839" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="7.414804" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h9a7556c7g03c1gcd7fgb1dage1433afb4839" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h2d66713ag82d5g7b3fgb2e2g67508e574923" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="7.8682737" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h2d66713ag82d5g7b3fgb2e2g67508e574923" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h560bdc1age425g98c5ge0b1g5d2f77e86707" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="5.6884217" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h560bdc1age425g98c5ge0b1g5d2f77e86707" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h33f87e7aga0ccg64d4g6160ga4213bbed728" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="8.430883" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h33f87e7aga0ccg64d4g6160ga4213bbed728" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="heecc95d0g8540gced8g34b2g5f5415ad9f5f" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="8.430883" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_heecc95d0g8540gced8g34b2g5f5415ad9f5f" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hf2637479gc898gc0e9g0eddgf88aa16a0f40" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="2.8933036" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hf2637479gc898gc0e9g0eddgf88aa16a0f40" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
