@@ -113,7 +113,7 @@
 									<children>
 										<node id="MapValue">
 											<attribute id="Codec" type="FixedString" value="VORBIS" />
-											<attribute id="Length" type="float" value="0.76716" />
+											<attribute id="Length" type="float" value="1.6092416" />
 											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
 											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hcfe6b42fgc8b4g3177g12b5g3fa7c6abee96" />
 										</node>
@@ -179,7 +179,7 @@
 									<children>
 										<node id="MapValue">
 											<attribute id="Codec" type="FixedString" value="VORBIS" />
-											<attribute id="Length" type="float" value="10.426109" />
+											<attribute id="Length" type="float" value="6.585228" />
 											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
 											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_hea037bcbg51dbg05acg33fcgaf027b6172e9" />
 										</node>
