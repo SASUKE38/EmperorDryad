@@ -35,10 +35,12 @@ TODO: + = done
 +Add phase 285 to timeline
 +Retime all effect components and phases >=246 (REMEMBER TO SET NEW TOTAL TIME). Check reasonable desired time for phases greater than 10 by setting length to 20 and retiming
 +Fix hireling jank
-Fix orphic hammer node flags
-Fix node 269 and 270 dialogue animations - remove?
++ (impossibled) Fix orphic hammer node flags
++Fix node 269 and 270 dialogue animations - remove?
+Test Orin functionality
 
 IF ABLE:
+Check follower behavior in cutscene
 +Replace phase 249 dialogue animations with those of phase 251
 Fix slide back on floating success animation
 Fix the weird head jerking
