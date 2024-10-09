@@ -33,6 +33,7 @@ Question 3
 *266 - 7.414804/2.585196 - I have lost my free will twice before. That nightmare will not plague my mind again. - h9a7556c7g03c1gcd7fgb1dage1433afb4839 - 
 *267 - 0.76716/9.23284 - ... - hcfe6b42fgc8b4g3177g12b5g3fa7c6abee96
 *268 - 1.6092416/8.3907584 - ...Yes. - ha75e5dc4g30dfg1643gdfdeg361c4aec9dce - 
+*287 - 5.1238813 - Do you mock me? I fear what will happen if you free him: enthrallment. You should fear it too. - h362dc1d3gb708g5078g733bg55e2fe2be25f
 
 Results
 +269 - 8.430883/1.569117 - You have studied me. I am... flattered. Few have known me so well. - heecc95d0g8540gced8g34b2g5f5415ad9f5f - 
@@ -52,7 +53,7 @@ Requests
 *283 - 7.5682817/2.4317183 - It seems we did not even need the help of the dryad to know if we are compatible or not. - h12a19398g5b23gda6ag53aag43e9a2c6c297 - 
 *284 - 5.8712964/4.1287036 - Have your beloved reach out to me. That will be enough. - h416fa7f1gcc46gf1cdg56afg0c179afb711c - 
 *285 -  2.8933036/7.1066964 - It was kind of you to do that for me. I am ready. - a7d17589-9e72-711b-f7c1-777cc7e6f408 - 
-
+*286 - 12.766126 - Love's forms are boundless. Nature cares only for the strength of a bond, not the shapes of the bonded. - hef8222f6ge96agbd73gcdafg18220beb13a4
 
 Cinematic:
 +279 (Original: 172) - f6b26237-6636-bfc6-1016-b7d6af104f44

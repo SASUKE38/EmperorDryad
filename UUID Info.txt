@@ -30,16 +30,19 @@ TODO: + = done
 +Add additional transform for success OTS cam that moves from rotation 0 0.8125383 0.0650031 -0.5792721 to 0 0.7989719 0.1118561 -0.590874 when the emperor stops moving forward
 +Make sure node 3a838abf-b0d5-b7e8-e805-e547f3ef3ed0 doesn't block the emperor's test
 +Add dialogue animations (.ffxanim, .gr2)
-Find different animation for phase 268
-Fix phase 269 - not all elements of phase 270 are copied correctly
-Add phase 285 to timeline
-Retime all effect components and phases >=246 (REMEMBER TO SET NEW TOTAL TIME). Check reasonable desired time for phases greater than 10 by setting length to 20 and retiming
++Find different animation for phase 268
++Fix phase 269 - not all elements of phase 270 are copied correctly
++Add phase 285 to timeline
++Retime all effect components and phases >=246 (REMEMBER TO SET NEW TOTAL TIME). Check reasonable desired time for phases greater than 10 by setting length to 20 and retiming
++Fix hireling jank
+Fix orphic hammer node flags
+Fix node 269 and 270 dialogue animations - remove?
 
 IF ABLE:
-Replace phase 249 dialogue animations with those of phase 251
++Replace phase 249 dialogue animations with those of phase 251
 Fix slide back on floating success animation
 Fix the weird head jerking
-Fix phase 284 subtitle being so short
++Fix phase 284 subtitle being so short
 
 
 

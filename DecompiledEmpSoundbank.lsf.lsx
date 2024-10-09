@@ -361,6 +361,28 @@
 										</node>
 									</children>
 								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="ha75e5dc4g30dfg1643gdfdeg361c4aec9dce" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="1.6092416" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_ha75e5dc4g30dfg1643gdfdeg361c4aec9dce" />
+										</node>
+									</children>
+								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="h362dc1d3gb708g5078g733bg55e2fe2be25f" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="5.1238813" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="v73d49dc58b8b45dca98c927bb4e3169b_h362dc1d3gb708g5078g733bg55e2fe2be25f" />
+										</node>
+									</children>
+								</node>
 							</children>
 						</node>
 					</children>

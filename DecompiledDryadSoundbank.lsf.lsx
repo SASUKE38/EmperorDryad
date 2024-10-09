@@ -75,6 +75,17 @@
 										</node>
 									</children>
 								</node>
+								<node id="VoiceTextMetaData">
+									<attribute id="MapKey" type="FixedString" value="hef8222f6ge96agbd73gcdafg18220beb13a4" />
+									<children>
+										<node id="MapValue">
+											<attribute id="Codec" type="FixedString" value="VORBIS" />
+											<attribute id="Length" type="float" value="12.766126" />
+											<attribute id="Priority" type="FixedString" value="P1_StoryDialog" />
+											<attribute id="Source" type="FixedString" value="va8bce35d17ee46e38d561d0d29c4a01e_hef8222f6ge96agbd73gcdafg18220beb13a4" />
+										</node>
+									</children>
+								</node>
 							</children>
 						</node>
 					</children>
