@@ -37,10 +37,13 @@ TODO: + = done
 +Fix hireling jank
 + (impossibled) Fix orphic hammer node flags
 +Fix node 269 and 270 dialogue animations - remove?
-Test Orin functionality
++Add Belynne flag
++Test Orin functionality
++Eliminate player cam on fail
++Check show is working for alias b2d1da24-a415-4d47-18bf-cf818f3b44e0
 
 IF ABLE:
-Check follower behavior in cutscene
++Check follower behavior in cutscene
 +Replace phase 249 dialogue animations with those of phase 251
 Fix slide back on floating success animation
 Fix the weird head jerking
